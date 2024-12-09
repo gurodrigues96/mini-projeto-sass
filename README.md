@@ -1,6 +1,8 @@
 
 # Mini Projeto: Landing Page com SASS
 
+##Autores: Emilha de Souza e Gustavo Rodrigues
+
 Este repositório contém o desenvolvimento de uma **Landing Page** utilizando o pré-processador **SASS**. O objetivo principal é demonstrar como aplicar os conceitos de modularidade, reutilização de estilos e boas práticas no desenvolvimento web.
 
 ---
