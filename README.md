@@ -146,10 +146,10 @@ Abra o arquivo `index.html` em um navegador. Você verá uma página com:
 ## 📸 **Imagens do Processo**
 
 ### Estrutura do Projeto
-![Estrutura do Projeto](assets/project-structure.png)
+![Estrutura do Projeto](images/project-structure.png)
 
 ### Página Finalizada
-![Página Finalizada](assets/final-page.png)
+![Página Finalizada](images/final-page.png)
 
 ---
 
