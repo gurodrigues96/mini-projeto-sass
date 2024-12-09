@@ -1,0 +1,117 @@
+body {
+  font-family: "Arial", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.header, .footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #3498db;
+  color: #fff;
+  height: 60px;
+}
+
+.main-content {
+  padding: 16px;
+}
+@media (max-width: 768px) {
+  .main-content {
+    padding: 8px;
+  }
+}
+
+.hero {
+  text-align: center;
+  padding: 32px;
+  background-color: #3498db;
+  color: #fff;
+}
+.hero h1 {
+  font-size: 2.5rem;
+  margin-bottom: 16px;
+}
+.hero p {
+  font-size: 1.25rem;
+  margin-bottom: 16px;
+}
+
+.about {
+  padding: 32px;
+}
+.about h2 {
+  text-align: center;
+  margin-bottom: 16px;
+}
+.about p {
+  text-align: center;
+  line-height: 1.6;
+}
+
+.button {
+  background-color: #2ecc71;
+  color: #fff;
+  border: none;
+  padding: 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.button:hover {
+  background-color: rgb(36.616, 162.384, 89.948);
+}
+
+.card {
+  border: 1px solid rgb(138.6359832636, 195.9581589958, 234.3640167364);
+  padding: 16px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.card .card-header {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+.card .card-body {
+  font-size: 1rem;
+}
+
+.features {
+  background-color: rgb(225.2719665272, 239.9163179916, 249.7280334728);
+  padding: 32px;
+}
+.features .feature-list {
+  display: flex;
+  justify-content: space-around;
+}
+.features .feature-list .feature {
+  text-align: center;
+  max-width: 200px;
+}
+.features .feature-list .feature h3 {
+  font-size: 1.5rem;
+  margin-bottom: 8px;
+}
+
+.contact {
+  padding: 32px;
+}
+.contact form {
+  max-width: 400px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+.contact form input, .contact form textarea {
+  margin-bottom: 16px;
+  padding: 8px;
+  border: 1px solid rgb(138.6359832636, 195.9581589958, 234.3640167364);
+  border-radius: 4px;
+}
+.contact form button {
+  align-self: center;
+}
+
+/*# sourceMappingURL=main.css.map */
