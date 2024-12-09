@@ -43,3 +43,31 @@
         line-height: 1.6;
     }
 }
+
+.features {
+    padding: $spacing * 2;
+
+    h2 {
+        text-align: center;
+        margin-bottom: $spacing;
+    }
+
+    p {
+        text-align: center;
+        line-height: 1.6;
+    }
+}
+
+.contact {
+    padding: $spacing * 2;
+
+    h2 {
+        text-align: center;
+        margin-bottom: $spacing;
+    }
+
+    p {
+        text-align: center;
+        line-height: 1.6;
+    }
+}

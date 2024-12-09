@@ -49,6 +49,30 @@ body {
   line-height: 1.6;
 }
 
+.features {
+  padding: 32px;
+}
+.features h2 {
+  text-align: center;
+  margin-bottom: 16px;
+}
+.features p {
+  text-align: center;
+  line-height: 1.6;
+}
+
+.contact {
+  padding: 32px;
+}
+.contact h2 {
+  text-align: center;
+  margin-bottom: 16px;
+}
+.contact p {
+  text-align: center;
+  line-height: 1.6;
+}
+
 .button {
   background-color: #2ecc71;
   color: #fff;
